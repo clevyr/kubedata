@@ -4,7 +4,7 @@ go 1.23.3
 
 require (
 	al.essio.dev/pkg/shellescape v1.5.1
-	cloud.google.com/go/storage v1.46.0
+	cloud.google.com/go/storage v1.49.0
 	gabe565.com/spinners v1.3.0
 	gabe565.com/utils v0.0.0-20241111053222-0f59399cbb3c
 	github.com/aws/aws-sdk-go-v2/config v1.28.3
